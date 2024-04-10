@@ -137,8 +137,7 @@ export const education = [
     school: "Excel Public School Mahe",
     date: "June 2017 - May 2018",
     grade: "88%",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Biology Science",
+    degree: "(XII), Science with Biology Science",
   },
 
 ];
